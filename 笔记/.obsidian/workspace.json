@@ -13,11 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一个笔记.md",
+                "file": "基于Git的Obsidian笔记同步教程.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "6ab659e4b2065101",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#按照实际情况填写",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一个笔记.md",
+                "file": "基于Git的Obsidian笔记同步教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一个笔记.md",
+                "file": "基于Git的Obsidian笔记同步教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +135,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一个笔记.md"
+                "file": "基于Git的Obsidian笔记同步教程.md"
               }
             }
+          },
+          {
+            "id": "61cab9d6ef10402d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,6 +169,7 @@
   "active": "865a4ae8d135f69e",
   "lastOpenFiles": [
     "一个笔记.md",
+    "基于Git的Obsidian笔记同步教程.md",
     "Excalidraw/Drawing 2024-09-23 14.21.51.excalidraw.md",
     "Excalidraw",
     "未命名.canvas",
