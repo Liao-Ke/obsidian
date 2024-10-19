@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "一个笔记.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "一个笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "一个笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "一个笔记.md"
               }
             }
           }
@@ -151,7 +151,7 @@
   },
   "active": "865a4ae8d135f69e",
   "lastOpenFiles": [
-    "未命名.md",
+    "一个笔记.md",
     "Excalidraw/Drawing 2024-09-23 14.21.51.excalidraw.md",
     "Excalidraw",
     "未命名.canvas",
