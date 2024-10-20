@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9da8d8bcf3fb84b2",
+        "id": "fd96c650deae6d52",
         "type": "tabs",
         "children": [
           {
-            "id": "7de3cbab4ba413f4",
+            "id": "3605d706f40d36e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "笔记/杂项/一个笔记.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -140,9 +140,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7de3cbab4ba413f4",
+  "active": "3605d706f40d36e6",
   "lastOpenFiles": [
-    "笔记/杂项/已命名.md",
-    "笔记/杂项/一个笔记.md"
+    "笔记/杂项/一个笔记.md",
+    "笔记/杂项/已命名.md"
   ]
 }
