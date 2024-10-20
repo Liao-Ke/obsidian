@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a2164cc4c24aed4",
+        "id": "3157179b2acc510b",
         "type": "tabs",
         "children": [
           {
-            "id": "6b0aa2b63e36f6a4",
+            "id": "b1bd32c5ff216026",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-20 09.38.53.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,8 +150,9 @@
   },
   "active": "cd3ca899d34eb35f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-20 09.38.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-20 09.44.51.excalidraw.md",
     "Excalidraw",
+    "Excalidraw/Drawing 2024-10-20 09.38.53.excalidraw.md",
     "杂项",
     "杂项/一个笔记.md",
     "杂项/AI对话.md",
