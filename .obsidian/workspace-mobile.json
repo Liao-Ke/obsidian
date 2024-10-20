@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b65bf1916ddb6354",
+        "id": "9da8d8bcf3fb84b2",
         "type": "tabs",
         "children": [
           {
-            "id": "d1e09cee64fd5dce",
+            "id": "7de3cbab4ba413f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -117,9 +117,17 @@
             "file": "笔记/杂项/一个笔记.md"
           }
         }
+      },
+      {
+        "id": "783a79cfee58b27d",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,6 +140,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1e09cee64fd5dce",
-  "lastOpenFiles": []
+  "active": "7de3cbab4ba413f4",
+  "lastOpenFiles": [
+    "笔记/杂项/已命名.md",
+    "笔记/杂项/一个笔记.md"
+  ]
 }
