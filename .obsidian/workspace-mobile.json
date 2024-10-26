@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "笔记/杂项/一个笔记.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,6 +142,7 @@
   },
   "active": "3605d706f40d36e6",
   "lastOpenFiles": [
+    "/笔记/杂项/一个笔记.md",
     "笔记/杂项/一个笔记.md",
     "笔记/杂项/已命名.md"
   ]
