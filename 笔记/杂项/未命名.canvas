@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"82ea80340251b925","type":"text","text":"这是什么？\n","x":-92,"y":-39,"width":352,"height":119,"color":"5"},
-		{"id":"ad9ea1bb3d3c7151","x":-66,"y":-183,"width":250,"height":60,"type":"text","text":"啊哈"}
+		{"id":"ad9ea1bb3d3c7151","type":"text","text":"啊哈","x":260,"y":-224,"width":250,"height":60},
+		{"id":"82ea80340251b925","type":"text","text":"这是什么？\n","x":-60,"y":0,"width":352,"height":119,"color":"5"},
+		{"id":"c95699fe2e54c920","x":-287,"y":-265,"width":455,"height":202,"type":"text","text":"![1729937127871](https://gitee.com/lZao/drawing-bed/raw/master/2024/10/26/1729937127871)"}
 	],
 	"edges":[]
 }

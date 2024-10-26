@@ -11,18 +11,33 @@
             "id": "89780d8a8ba2daa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "杂项/一个笔记.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "杂项/未命名.canvas",
+                "viewState": {
+                  "x": 84,
+                  "y": -51.5,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "一个笔记"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "95ff4fde3b86dfaf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-26 18.04.34.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,12 +171,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,20 +190,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "89780d8a8ba2daa2",
+  "active": "95ff4fde3b86dfaf",
   "lastOpenFiles": [
-    "杂项/已命名.md",
+    "杂项/未命名.canvas",
+    "Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md",
+    "Excalidraw",
+    "未命名.canvas",
+    "未命名 1.canvas",
     "杂项/一个笔记.md",
+    "杂项/已命名.md",
     "杂项/AI对话.md",
     "杂项/GPT2-Chinese.md",
     "Excalidraw/Drawing 2024-10-20 09.44.51.excalidraw.md",
-    "Excalidraw",
     "Excalidraw/Drawing 2024-10-20 09.38.53.excalidraw.md",
     "杂项",
     "杂项/评估小事情是否值得做.md",
     "杂项/基于Git的Obsidian笔记同步教程.md",
     "Excalidraw/Drawing 2024-09-23 14.21.51.excalidraw.md",
-    "未命名.canvas",
     "2024-09-23.md",
     "创建链接.md",
     "欢迎.md"
