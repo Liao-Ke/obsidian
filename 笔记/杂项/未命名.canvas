@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"82ea80340251b925","type":"text","text":"这是什么？\n","x":-92,"y":-39,"width":352,"height":119,"color":"5"},
+		{"id":"ad9ea1bb3d3c7151","x":-66,"y":-183,"width":250,"height":60,"type":"text","text":"啊哈"}
+	],
+	"edges":[]
+}
