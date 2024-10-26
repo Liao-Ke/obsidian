@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd96c650deae6d52",
+        "id": "f3f11c8c36483c8f",
         "type": "tabs",
         "children": [
           {
-            "id": "3605d706f40d36e6",
+            "id": "ba322caacbe5798c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "笔记/杂项/一个笔记.md",
-                "mode": "preview",
-                "source": false
+                "file": "笔记/杂项/未命名.canvas",
+                "viewState": {
+                  "x": -47.305974200801785,
+                  "y": 109.32709923894986,
+                  "zoom": -0.7094557795106756
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "笔记/杂项/一个笔记.md",
+            "file": "笔记/杂项/未命名.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "笔记/杂项/一个笔记.md",
+            "file": "笔记/杂项/未命名.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "笔记/杂项/一个笔记.md"
+            "file": "笔记/杂项/未命名.canvas"
           }
         }
       },
@@ -140,9 +143,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3605d706f40d36e6",
+  "active": "783a79cfee58b27d",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "笔记/杂项/未命名.canvas",
     "笔记/杂项/一个笔记.md",
+    "/笔记/杂项/一个笔记.md",
     "笔记/杂项/已命名.md"
   ]
 }
