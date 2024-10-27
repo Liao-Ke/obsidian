@@ -28,12 +28,17 @@
             "id": "95ff4fde3b86dfaf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md"
+                "file": "杂项/未命名.canvas",
+                "viewState": {
+                  "x": 111.5,
+                  "y": -73,
+                  "zoom": -0.15388761828403047
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-26 18.04.34.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ],
@@ -176,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 404.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +197,8 @@
   },
   "active": "95ff4fde3b86dfaf",
   "lastOpenFiles": [
-    "杂项/未命名.canvas",
     "Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md",
+    "杂项/未命名.canvas",
     "Excalidraw",
     "未命名.canvas",
     "未命名 1.canvas",
