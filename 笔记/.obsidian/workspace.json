@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e28fa2081f94fdb6",
+        "id": "2354855ba3e778c7",
         "type": "tabs",
         "children": [
           {
-            "id": "89780d8a8ba2daa2",
+            "id": "18e405fdf7e48c71",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "杂项/未命名.canvas",
-                "viewState": {
-                  "x": 84,
-                  "y": -51.5,
-                  "zoom": 0
-                }
+                "file": "杂项/Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "95ff4fde3b86dfaf",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "杂项/未命名.canvas",
-                "viewState": {
-                  "x": 111.5,
-                  "y": -73,
-                  "zoom": -0.15388761828403047
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-26 18.04.34.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +172,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "95ff4fde3b86dfaf",
+  "active": "18e405fdf7e48c71",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md",
     "杂项/未命名.canvas",
+    "Excalidraw/Drawing 2024-10-27 19.58.06.excalidraw.md",
+    "杂项/Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md",
+    "杂项/Excalidraw",
+    "Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md",
     "Excalidraw",
     "未命名.canvas",
     "未命名 1.canvas",
