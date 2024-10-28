@@ -11,12 +11,15 @@
             "id": "18e405fdf7e48c71",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "杂项/Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md"
+                "file": "杂项/一个笔记.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-26 18.04.34.excalidraw"
+              "icon": "lucide-file",
+              "title": "一个笔记"
             }
           }
         ]
@@ -174,9 +177,9 @@
   },
   "active": "18e405fdf7e48c71",
   "lastOpenFiles": [
+    "杂项/Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md",
     "杂项/未命名.canvas",
     "Excalidraw/Drawing 2024-10-27 19.58.06.excalidraw.md",
-    "杂项/Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md",
     "杂项/Excalidraw",
     "Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md",
     "Excalidraw",
