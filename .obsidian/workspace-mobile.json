@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8b8d4de24aebb9a5",
+        "id": "96d5506a55eea3e5",
         "type": "tabs",
         "children": [
           {
-            "id": "abd594407dae02bc",
+            "id": "fb6e2ba11fed96dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "笔记/专升本/数学/专升本数学大纲.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "笔记/专升本/数学/专升本数学大纲.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "笔记/专升本/数学/专升本数学大纲.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "笔记/专升本/数学/专升本数学大纲.md"
+          }
         }
       },
       {
@@ -119,8 +127,7 @@
         }
       }
     ],
-    "currentTab": 3,
-    "pinned": true
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -134,8 +141,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "abd594407dae02bc",
+  "active": "fb6e2ba11fed96dd",
   "lastOpenFiles": [
+    "函数的概念.md",
+    "笔记/专升本/数学/专升本数学大纲.md",
+    "().md",
+    "未命名.canvas",
+    "笔记/专升本/数学",
+    "笔记/专升本",
     "笔记/杂项/一个笔记.md",
     "笔记/杂项/Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md",
     "/笔记/杂项/未命名.canvas",
@@ -144,7 +157,6 @@
     "/笔记/Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md",
     "笔记/杂项/Excalidraw",
     "/笔记/Excalidraw",
-    "未命名.canvas",
     "/笔记/杂项/一个笔记.md",
     "笔记/杂项/已命名.md"
   ]
