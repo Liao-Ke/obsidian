@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2354855ba3e778c7",
+        "id": "d312f7968d89e4e1",
         "type": "tabs",
         "children": [
           {
-            "id": "18e405fdf7e48c71",
+            "id": "38261d4b58010c59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "杂项/一个笔记.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "杂项/Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "一个笔记"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-26 18.04.34.excalidraw"
             }
           }
         ]
@@ -140,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/GPT2-Chinese.md"
+                "file": "杂项/Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "GPT2-Chinese 的大纲"
+              "title": "Drawing 2024-10-26 18.04.34.excalidraw 的大纲"
             }
           },
           {
@@ -171,18 +168,20 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "61cab9d6ef10402d",
   "lastOpenFiles": [
     "杂项/handwritten-notes/New note.pdf",
+    "杂项/Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md",
+    "杂项/一个笔记.md",
     "杂项/handwritten-notes",
     "杂项/GPT2-Chinese.md",
-    "杂项/一个笔记.md",
     "杂项/已命名.md",
     "杂项/AI对话.md",
-    "杂项/Excalidraw/Drawing 2024-10-26 18.04.34.excalidraw.md",
     "专升本/数学/第一章 函数、极限与连续.md",
     "专升本/数学/大纲.md",
     "专升本/数学",
