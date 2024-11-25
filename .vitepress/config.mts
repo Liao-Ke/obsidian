@@ -41,5 +41,6 @@ export default defineConfig({
     config: (md) => {
       md.use(BiDirectionalLinks()) 
     },
+    math: true
   },
 })
