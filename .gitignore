@@ -1,4 +1,5 @@
 /.obsidian
 */.obsidian
 **/.obsidian
-/node_modules
+.vitepress/cache
+node_modules
