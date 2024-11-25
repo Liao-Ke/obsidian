@@ -3,9 +3,6 @@
 layout: home
 
 hero:
-  name: "My Obsidian"
-  text: "My Obsidian"
-  tagline: My great project tagline
   actions:
     - theme: alt
       text: 数学大纲
