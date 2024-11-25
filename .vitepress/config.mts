@@ -21,7 +21,6 @@ export default defineConfig({
   description: "My Obsidian",
   lang:'zh',
   lastUpdated: true,
-   base: '/obsidian/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
