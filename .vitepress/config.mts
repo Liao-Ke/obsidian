@@ -42,7 +42,8 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     outline: {
-      label:'在本页'
+      label:'大纲',
+      level: 'deep'
     },
     docFooter: {
       prev: '上一页',

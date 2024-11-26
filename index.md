@@ -5,9 +5,8 @@ layout: home
 hero:
   actions:
     - theme: alt
-      text: 数学大纲
-      link: /笔记/专升本/数学/大纲.md
+      text: 笔记
+      link: /笔记/杂项/一个笔记.md
     - theme: alt
-      text: 英语大纲
-      link: /笔记/专升本/英语/大纲.md
-
+      text: 卡片盒
+      link: /卡片盒/笔记.md
