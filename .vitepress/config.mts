@@ -12,7 +12,7 @@ export default defineConfig({
     plugins: [ 
       GitChangelog({ 
         // 填写在此处填写您的仓库链接
-        repoURL: () => 'https://gitee.com/lZao/obsidian', 
+        repoURL: () => 'https://github.com/Liao-Ke/obsidian', 
         mapAuthors: [ 
           { 
             name: 'lk', 
