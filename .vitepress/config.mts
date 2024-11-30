@@ -41,6 +41,9 @@ export default defineConfig({
   lang:'zh-CN',
   lastUpdated: true,
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     outline: {
       label:'大纲',
       level: 'deep'
