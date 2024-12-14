@@ -36,8 +36,8 @@ export default defineConfig({
     }, 
 
   }, 
-  title: "我的黑曜石",
-  description: "我的黑曜石",
+  title: "Obsidian",
+  description: "Obsidian",
   lang:'zh-CN',
   lastUpdated: true,
   themeConfig: {
