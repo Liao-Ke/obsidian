@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"f8c9655b4baafbf1","x":-580,"y":-820,"width":400,"height":400,"type":"file","file":"专升本/数学/大纲.md"},
+		{"id":"ac0d95fe7cfad724","x":-264,"y":-77,"width":169,"height":50,"type":"text","text":"第四步"},
+		{"id":"baab0643bf473bb6","x":-434,"y":-270,"width":169,"height":50,"type":"text","text":"第一步"},
+		{"id":"885e532f4aaf7650","x":-575,"y":-77,"width":169,"height":50,"type":"text","text":"第二步"},
+		{"id":"68981257aa2a7911","x":-434,"y":80,"width":169,"height":50,"type":"text","text":"第三步"},
+		{"id":"b9604d62bca559fd","x":-471,"y":-280,"width":250,"height":60,"type":"text","text":"第一步"},
+		{"id":"923a4cf1edd6ec30","x":-80,"y":-820,"width":400,"height":400,"type":"file","file":"专升本/数学/第一章 函数、极限与连续.md"}
+	],
+	"edges":[
+		{"id":"0d5dd88470a93558","fromNode":"ac0d95fe7cfad724","fromSide":"top","toNode":"baab0643bf473bb6","toSide":"right"},
+		{"id":"44d7304be757f51e","fromNode":"baab0643bf473bb6","fromSide":"left","toNode":"885e532f4aaf7650","toSide":"top"},
+		{"id":"26c46151877b103c","fromNode":"885e532f4aaf7650","fromSide":"bottom","toNode":"68981257aa2a7911","toSide":"left"},
+		{"id":"df675e6c7b1f91fd","fromNode":"68981257aa2a7911","fromSide":"right","toNode":"ac0d95fe7cfad724","toSide":"bottom"},
+		{"id":"b7b97664fdf777d5","fromNode":"f8c9655b4baafbf1","fromSide":"right","toNode":"923a4cf1edd6ec30","toSide":"left"}
+	]
+}
