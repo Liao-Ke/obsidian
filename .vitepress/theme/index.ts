@@ -6,14 +6,14 @@ import {
 import {
   NolebaseHighlightTargetedHeading,
 } from '@nolebase/vitepress-plugin-highlight-targeted-heading/client'
-
+import MyLayout from './MyLayout.vue'
 import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
 import type { Theme as ThemeConfig } from 'vitepress'
 import { h } from 'vue'
 export const Theme: ThemeConfig = {
   extends: DefaultTheme,
   Layout: () => {
-    return h(DefaultTheme.Layout, null, {
+    return h(MyLayout, null, {
       // 其他的配置...
       'layout-top': () => [
         h(NolebaseHighlightTargetedHeading),
