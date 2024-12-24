@@ -10,6 +10,7 @@ import MyLayout from './MyLayout.vue'
 import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
 import type { Theme as ThemeConfig } from 'vitepress'
 import { h } from 'vue'
+import '/public/style/my.css'
 export const Theme: ThemeConfig = {
   extends: DefaultTheme,
   Layout: () => {

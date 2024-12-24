@@ -5,7 +5,7 @@ import {
   GitChangelog, 
   GitChangelogMarkdownSection, 
 } from '@nolebase/vitepress-plugin-git-changelog/vite'
-
+import { tasklist } from "@mdit/plugin-tasklist";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   vite: { 
@@ -83,6 +83,9 @@ export default defineConfig({
   markdown: {
     config: (md) => {
       md.use(BiDirectionalLinks()) 
+      md.use(tasklist, {
+        // your options, optional
+      });
     },
     math: true,
     container: {
