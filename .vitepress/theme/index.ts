@@ -13,11 +13,14 @@ import { h } from 'vue'
 export const Theme: ThemeConfig = {
   extends: DefaultTheme,
   Layout: () => {
-    return h(MyLayout, null, {
+    return h(DefaultTheme.Layout, null, {
       // 其他的配置...
       'layout-top': () => [
         h(NolebaseHighlightTargetedHeading),
       ],
+      'not-found':()=>[
+        h(MyLayout)
+      ]
     })
   },
   enhanceApp({ app }) {
