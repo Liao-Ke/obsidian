@@ -1,6 +1,6 @@
 <!--.vitepress/theme/MyLayout.vue-->
 <script setup>
-import DefaultTheme from 'vitepress/theme'
+// import DefaultTheme from 'vitepress/theme'
 import { useData } from 'vitepress'
 import { withBase } from 'vitepress'
 // import { useLangs } from 'vitepress'
@@ -8,12 +8,10 @@ import { withBase } from 'vitepress'
 const { theme } = useData()
 // const { currentLang } = useLangs()
 
-const { Layout } = DefaultTheme
+// const { Layout } = DefaultTheme
 </script>
 
 <template>
-  <Layout>
-    <template #not-found>
       <div class="NotFound">
     <p class="code">{{ theme.notFound?.code ?? '404' }}</p>
     <h1 class="title">{{ theme.notFound?.title ?? '找不到网页' }}</h1>
@@ -35,8 +33,6 @@ const { Layout } = DefaultTheme
       </a>
     </div>
   </div>
-    </template>
-  </Layout>
 </template>
 
 <style scoped>
