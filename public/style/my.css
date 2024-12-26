@@ -2,7 +2,7 @@
     list-style: none;
     
 }
-.task-list-item-checkbox[checked="checked"]+.task-list-item-label{
+.task-list-item-checkbox:checked+.task-list-item-label{
     text-decoration: line-through;
 }
 
