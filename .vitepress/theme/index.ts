@@ -15,6 +15,7 @@ import '/public/style/my.css'
 import mediumZoom from 'medium-zoom';
 import { onMounted, watch, nextTick } from 'vue';
 import { useRoute } from 'vitepress';
+import Layout from './Layout.vue'
 
 export const Theme: ThemeConfig = {
   extends: DefaultTheme,
@@ -34,7 +35,7 @@ export const Theme: ThemeConfig = {
     );
   },
   Layout: () => {
-    return h(DefaultTheme.Layout, null, {
+    return h(Layout, null, {
       // 其他的配置...
       'layout-top': () => [
         h(NolebaseHighlightTargetedHeading),
