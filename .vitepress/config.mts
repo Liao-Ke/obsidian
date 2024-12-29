@@ -40,6 +40,7 @@ export default defineConfig({
   description: "Obsidian",
   lang: 'zh-CN',
   lastUpdated: true,
+  cleanUrls: true,
   themeConfig: {
     search: {
       provider: 'local',
