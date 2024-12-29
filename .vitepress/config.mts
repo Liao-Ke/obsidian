@@ -6,6 +6,8 @@ import {
   GitChangelogMarkdownSection,
 } from '@nolebase/vitepress-plugin-git-changelog/vite'
 import { tasklist } from "@mdit/plugin-tasklist";
+import { InsertTitle } from './plugins/vitepress-plugin-insert-title/vitepress-plugin-insert-title'
+import { join } from 'node:path'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   vite: {
@@ -27,6 +29,11 @@ export default defineConfig({
         ]
       }),
       GitChangelogMarkdownSection(),
+      InsertTitle({
+        excludes: [
+          join('index.md')
+        ],
+      })
     ],
     ssr: {
       noExternal: [
