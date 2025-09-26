@@ -35,12 +35,13 @@ for i in range(n):
 **Liao：** 写一个复杂的数学公式
 
 **Ai.小助手：** 当然可以！下面是一个包含多种数学运算的复杂公式：
-
+$$
 [ E = mc^2 + \int_0^{\infty} \frac{\sin(x)}{x} \, dx - \sum_{n=1}^{\infty} \frac{1}{n^2} + \sqrt{\frac{a^2 + b^2}{c^2}} \times \log\left(\frac{1 + e^{-x}}{1 - e^{-x}}\right) ]
+$$
 
 这个公式结合了爱因斯坦的质能方程、积分、无穷级数、平方根以及对数函数，展示了不同数学概念的结合。
 
-Liao： [ E = mc^2 + \int_0^{\infty} \frac{\sin(x)}{x} \, dx - \sum_{n=1}^{\infty} \frac{1}{n^2} + \sqrt{\frac{a^2 + b^2}{c^2}} \times \log\left(\frac{1 + e^{-x}}{1 - e^{-x}}\right) ]转为LaTex
+Liao：$$ [ E = mc^2 + \int_0^{\infty} \frac{\sin(x)}{x} \, dx - \sum_{n=1}^{\infty} \frac{1}{n^2} + \sqrt{\frac{a^2 + b^2}{c^2}} \times \log\left(\frac{1 + e^{-x}}{1 - e^{-x}}\right) ]转为LaTex$$
 
 Ai.小助手： 以下是你提供的数学表达式转为LaTeX格式的代码：
 
