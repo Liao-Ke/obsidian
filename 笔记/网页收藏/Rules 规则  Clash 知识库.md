@@ -33,7 +33,7 @@ TYPE,ARGUMENT,POLICY(,no-resolve)
 
 以下部分介绍了每种规则类型及其使用方法:
 
-### DOMAIN 域名
+	### DOMAIN 域名
 
 `DOMAIN,www.google.com,policy` 将 `www.google.com` 路由到 `policy`.
 
