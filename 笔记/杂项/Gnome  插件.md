@@ -68,3 +68,249 @@
 
  24. Workspace Indicator
 邮箱：[workspace-indicator@gnome-shell-extensions.gcampax.github.com](mailto:workspace-indicator@gnome-shell-extensions.gcampax.github.com)
+
+Extension Manager - Upgrade Assistant Report
+
+Currently on: GNOME 49.3
+Upgrading to: GNOME 49
+
+On upgrading to GNOME 49, 27 out of 28 currently
+installed extensions will be compatible (96%).
+
+User-Installed Extensions:
+
+Input Method Panel
+Extension ID: kimpanel@kde.org
+Supported: Yes
+
+AppIndicator and KStatusNotifierItem Support
+Extension ID: appindicatorsupport@rgcjonas.gmail.com
+Supported: Yes
+
+Workspace Indicator
+Extension ID: workspace-indicator@gnome-shell-extensions.gcampax.github.com
+Supported: Yes
+
+Caffeine
+Extension ID: caffeine@patapon.info
+Supported: Yes
+
+Lock Keys
+Extension ID: lockkeys@vaina.lt
+Supported: Yes
+
+Clipboard Indicator
+Extension ID: clipboard-indicator@tudmotu.com
+Supported: Yes
+
+Steal my focus window
+Extension ID: steal-my-focus-window@steal-my-focus-window
+Supported: Yes
+
+Fuzzy Application Search
+Extension ID: fuzzy-application-search@mkhl.codeberg.page
+Supported: Yes
+
+Tiling Shell
+Extension ID: tilingshell@ferrarodomenico.com
+Supported: Yes
+
+Vitals
+Extension ID: Vitals@CoreCoding.com
+Supported: Yes
+
+GPU Supergfxctl Switch
+Extension ID: gpu-switcher-supergfxctl@chikobara.github.io
+Supported: Yes
+
+Auto Power Profile
+Extension ID: auto-power-profile@dmy3k.github.io
+Supported: Yes
+
+Power profile indicator
+Extension ID: power-profile@fthx
+Supported: Yes
+
+Logo Menu
+Extension ID: logomenu@aryan_k
+Supported: Yes
+
+Rounded Window Corners Reborn
+Extension ID: rounded-window-corners@fxgn
+Supported: Yes
+
+Bing Wallpaper
+Extension ID: BingWallpaper@ineffable-gmail.com
+Supported: Yes
+
+Quick Settings Audio Panel
+Extension ID: quick-settings-audio-panel@rayzeq.github.io
+Supported: Yes
+
+Vicinae
+Extension ID: vicinae@dagimg-dot
+Supported: Yes
+
+Executor
+Extension ID: executor@raujonas.github.io
+Supported: Yes
+
+Disable Unredirect
+Extension ID: disable-unredirect@exeos
+Supported: Yes
+
+Window title is back
+Extension ID: window-title-is-back@fthx
+Supported: Yes
+
+Dash2Dock Animated
+Extension ID: dash2dock-lite@icedman.github.com
+Supported: Yes
+
+Control monitor brightness and volume with ddcutil
+Extension ID: monitor-brightness-volume@ailin.nemui
+Supported: Yes
+
+Hide Universal Access
+Extension ID: hide-universal-access@akiirui.github.io
+Supported: Yes
+
+Copyous
+Extension ID: copyous@boerdereinar.dev
+Supported: Yes
+
+Quick Settings Tweaks
+Extension ID: quick-settings-tweaks@qwreey
+Supported: No
+
+Hide Top Bar
+Extension ID: hidetopbar@mathieu.bidon.ca
+Supported: Yes
+
+Dash to Dock
+Extension ID: dash-to-dock@micxgx.gmail.com
+Supported: Yes
+
+---
+Extension Manager - Upgrade Assistant Report
+
+Currently on: GNOME 49.3
+Upgrading to: GNOME 49
+
+On upgrading to GNOME 49, 27 out of 28 currently
+Installed extensions will be compatible (96%).
+
+User-Installed Extensions:
+
+Input Method Panel
+Extension ID: kimpanel@kde.org
+Supported: Yes
+
+AppIndicator and KStatusNotifierItem Support
+Extension ID: appindicatorsupport@rgcjonas.gmail.com
+Supported: Yes
+
+Workspace Indicator
+Extension ID: workspace-indicator@gnome-shell-extensions.gcampax.github.com
+Supported: Yes
+
+Caffeine
+Extension ID: caffeine@patapon.info
+Supported: Yes
+
+Lock Keys
+Extension ID: lockkeys@vaina.lt
+Supported: Yes
+
+Clipboard Indicator
+Extension ID: clipboard-indicator@tudmotu.com
+Supported: Yes
+
+Steal my focus window
+Extension ID: steal-my-focus-window@steal-my-focus-window
+Supported: Yes
+
+Fuzzy Application Search
+Extension ID: fuzzy-application-search@mkhl.codeberg.page
+Supported: Yes
+
+Tiling Shell
+Extension ID: tilingshell@ferrarodomenico.com
+Supported: Yes
+
+Vitals
+Extension ID: Vitals@CoreCoding.com
+Supported: Yes
+
+GPU Supergfxctl Switch
+Extension ID: gpu-switcher-supergfxctl@chikobara.github.io
+Supported: Yes
+
+Auto Power Profile
+Extension ID: auto-power-profile@dmy3k.github.io
+Supported: Yes
+
+Power profile indicator
+Extension ID: power-profile@fthx
+Supported: Yes
+
+Logo Menu
+Extension ID: logomenu@aryan_k
+Supported: Yes
+
+Rounded Window Corners Reborn
+Extension ID: rounded-window-corners@fxgn
+Supported: Yes
+
+Bing Wallpaper
+Extension ID: BingWallpaper@ineffable-gmail.com
+Supported: Yes
+
+Quick Settings Audio Panel
+Extension ID: quick-settings-audio-panel@rayzeq.github.io
+Supported: Yes
+
+Vicinae
+Extension ID: vicinae@dagimg-dot
+Supported: Yes
+
+Executor
+Extension ID: executor@raujonas.github.io
+Supported: Yes
+
+Disable Unredirect
+Extension ID: disable-unredirect@exeos
+Supported: Yes
+
+Window title is back
+Extension ID: window-title-is-back@fthx
+Supported: Yes
+
+Dash 2 Dock Animated
+Extension ID: dash2dock-lite@icedman.github.com
+Supported: Yes
+
+Control monitor brightness and volume with ddcutil
+Extension ID: monitor-brightness-volume@ailin.nemui
+Supported: Yes
+
+Hide Universal Access
+Extension ID: hide-universal-access@akiirui.github.io
+Supported: Yes
+
+Copyous
+Extension ID: copyous@boerdereinar.dev
+Supported: Yes
+
+Quick Settings Tweaks
+Extension ID: quick-settings-tweaks@qwreey
+Supported: No
+
+Hide Top Bar
+Extension ID: hidetopbar@mathieu.bidon.ca
+Supported: Yes
+
+Dash to Dock
+Extension ID: dash-to-dock@micxgx.gmail.com
+Supported: Yes
+
