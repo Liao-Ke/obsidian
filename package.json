@@ -1,5 +1,13 @@
 {
   "type": "module",
+  "overrides": {
+    "vite": "^6.4.3",
+    "js-yaml": "^3.15.1",
+    "postcss": "^8.5.23",
+    "markdown-it": "^14.2.0",
+    "linkify-it": "^5.0.2",
+    "less": "^4.9.0"
+  },
   "devDependencies": {
     "@mdit/plugin-tasklist": "^0.22.2",
     "@nolebase/markdown-it-bi-directional-links": "^2.18.2",
@@ -15,5 +23,8 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
+  },
+  "allowScripts": {
+    "esbuild@0.25.12": true
   }
 }
